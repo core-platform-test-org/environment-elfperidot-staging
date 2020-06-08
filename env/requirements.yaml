@@ -10,3 +10,6 @@ dependencies:
 - name: rom24
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
+- name: rom25
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
